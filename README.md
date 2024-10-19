@@ -17,10 +17,18 @@ The project is designed as:
     - [ ] A Merchant App to sell items
     - [ ] Admin App to check on status of everything
 
--
+
+### [Tech Stack 🛠]
+- [ ] Kotlin
+- [ ] Jetpack Compose
+
+*use JVM 21*
+
+### [Features 🚀]
+
 
 
 ## Contributing
- Hop on here for a chat and ask questions. NO DMs please :)
+ Create an [issue here](https://github.com/droidconKE/doko/issues) and ask questions. NO DMs please :)
 
 
