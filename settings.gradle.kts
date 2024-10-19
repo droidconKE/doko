@@ -14,4 +14,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = ("doko")
-include(":app")
+include(":doko")
+include(":ddsdemo")
+include(":dokomerchant")
+include(":dokoadmin")
