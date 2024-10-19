@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.droidconke.dckeswag"
+    namespace = "com.droidconke.doko"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.droidconke.dckeswag"
+        applicationId = "com.droidconke.doko"
         minSdk = 26
         targetSdk = 33
         versionCode = 1
