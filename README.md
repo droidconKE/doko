@@ -12,11 +12,10 @@ The project is designed as:
   - [ ] Architecture
 - [ ] Project Infrastructure setUp
   - [ ] Workflows
-- [ ] 4 Apps in one:
+- [ ] 3 Apps in one:
     - [ ] A shoppers App to shop for items
-    - [ ] A sellers App to sell items
-    - [ ] A delivery App to deliver items
-    - [ ] A payment App to pay for items
+    - [ ] A Merchant App to sell items
+    - [ ] Admin App to check on status of everything
 
 -
 
