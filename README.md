@@ -1,13 +1,6 @@
-<p align="center">
-  <a href="https://github.com/droidconKE/droidconKE2022Android">
-    <img src="https://raw.githubusercontent.com/droidconKE/iconPack/master/images/chaicover.png" alt="Chai Design Logo" width=330 height=150>
-  </a>
+## doko
 
-## dckeswag
----
 droidconke marketplace
-
-
 
 
 ### Structure of doko
@@ -19,6 +12,13 @@ The project is designed as:
   - [ ] Architecture
 - [ ] Project Infrastructure setUp
   - [ ] Workflows
+- [ ] 4 Apps in one:
+    - [ ] A shoppers App to shop for items
+    - [ ] A sellers App to sell items
+    - [ ] A delivery App to deliver items
+    - [ ] A payment App to pay for items
+
+-
 
 
 ## Contributing
