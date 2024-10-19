@@ -42,7 +42,7 @@ android {
 }
 
 dependencies {
-
+    implementation(project(":dokodesignsytem"))
 
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.compose.material3)
