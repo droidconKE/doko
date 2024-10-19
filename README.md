@@ -7,11 +7,10 @@
 ---
 droidconke marketplace
 
-Maybe renamed :)
 
 
 
-### Structure Of dckeswag
+### Structure of doko
 
 The project is designed as:
 
