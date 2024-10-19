@@ -1,4 +1,5 @@
 pluginManagement {
+    includeBuild("buildLogic")
     repositories {
         google()
         mavenCentral()
@@ -12,5 +13,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = ("dckeswag")
+rootProject.name = ("doko")
 include(":app")
